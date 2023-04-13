@@ -11,9 +11,6 @@ x2 = np.zeros(n+1)
 an = np.zeros(n+1)
 bn = np.zeros(n+1)
 
-
-
-
 an[0] = a
 bn[0] = b
 
